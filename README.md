@@ -8,3 +8,7 @@ Emberly Walburger and Toby Reid
 
 1. Install Python packages as found in the [Requirements file](./requirements.txt).
 1. Run the [Jupyter Notebook](./final-project.ipynb).
+
+## Potential Resources for Creating the Dataset
+
+* https://outagedb.com
